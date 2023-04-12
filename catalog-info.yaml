@@ -1,0 +1,15 @@
+# DO NOT EDIT - Source of this data is https://github.com/submittable/software-catalog-automation/blob/main/src/owners.json
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ghas-enablement
+  description: "A tool that aims to bulk automates the enablement of GitHub Code Scanning, Secret Scanning and Dependabot across multiple repositories. "
+  annotations: 
+    github.com/project-slug: submittable/ghas-enablement
+    
+  tags: []
+spec:
+  type: service
+  owner: unassigned
+  lifecycle: experimental
+  
