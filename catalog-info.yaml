@@ -4,7 +4,7 @@ kind: Component
 metadata:
   name: ghas-enablement
   description: "A tool that aims to bulk automates the enablement of GitHub Code Scanning, Secret Scanning and Dependabot across multiple repositories. "
-  annotations: 
+  annotations:
     github.com/project-slug: submittable/ghas-enablement
     
   tags: []
